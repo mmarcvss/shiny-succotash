@@ -1,0 +1,5 @@
+A,Ford,2015,15000
+A,Chevrolet,2018,20000
+D,0
+A,Mercedes,2020,40000
+D,1
